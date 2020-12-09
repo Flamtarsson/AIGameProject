@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec  1 13:00:47 2020
-
+https://nerdparadise.com/programming/pygame/part1 bra intro till pygame
 @author: olofl
 """
 
